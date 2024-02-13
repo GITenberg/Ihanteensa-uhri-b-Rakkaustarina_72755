@@ -1,0 +1,33 @@
+_repo: Ihanteensa-uhri-b-Rakkaustarina_72755
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Brander, G. A.
+    gutenberg_agent_id: '56799'
+    url: http://www.gutenberg.org/2009/agents/56799
+creator:
+  author:
+    agent_name: Osterloh, Agnes
+    gutenberg_agent_id: '56798'
+    url: http://www.gutenberg.org/2009/agents/56798
+description: ''
+gutenberg_issued: '2024-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72755'
+language: fi
+pgterms:marc905: 20231009072857osterloh
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Diary fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Ihanteensa uhri : $b Rakkaustarina'
+url: http://www.gutenberg.org/ebooks/72755
