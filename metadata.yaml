@@ -5,12 +5,17 @@ contributor:
     agent_name: Brander, G. A.
     gutenberg_agent_id: '56799'
     url: http://www.gutenberg.org/2009/agents/56799
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Osterloh, Agnes
     gutenberg_agent_id: '56798'
     url: http://www.gutenberg.org/2009/agents/56798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72755#Ihanteensa-uhri-b-Rakkaustarina
 gutenberg_issued: '2024-01-19'
 gutenberg_type: Text
 identifiers:
